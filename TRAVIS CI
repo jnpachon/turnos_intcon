@@ -1,0 +1,17 @@
+
+TRAVIS CI 
+Es una excelente herramienta de integración continua. Travis CI es un servicio de integración continua alojado que se utiliza para crear y probar proyectos de software alojados en GitHub. Los proyectos de código abierto se pueden probar sin coste a través de su web, y los proyectos privados se pueden probar en travis-ci.com por una pequeña cantidad.
+Pasos a seguir
+El primer paso es crear un repositorio GitHub que contenga el código de la aplicación a la cual queremos incorporar en Travis-CI.
+Una vez el repositorio es creado, debemos dar permisos a Travis para conectarse con el mismo. Para esto debemos ir a las configuraciones del repositorio, hacer click sobre “Servicios” y seleccionar Travis-CI. Una vez allí seleccionar “Add to GitHub”.
+
+
+Uso de las herramientas de Travis CI y Codeship 
+
+Pasos para integrar un repositorio GitHub con Travis CI.  
+
+1 Tener un repositorio creado en GitHub con el código de la aplicación en la cual vamos a integrar Travis CI. 
+2) Una vez tengamos creado nuestro repositorio en GitHub debemos ingresar a la siguiente página https://travis-ci.org/ y loguearnos con una cuenta de GitHub
+
+
+
