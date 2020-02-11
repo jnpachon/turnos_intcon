@@ -1,0 +1,19 @@
+Qué es Github
+Es una forja para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de programas de computadora.
+Github puede considerarse como la red social de código para los programadores y en muchos casos es visto como tu curriculum vitae.
+
+Comandos y Conceptos Básicos de Git
+Cuáles son las tres secciones principales de un proyecto de Git
+•	El directorio de Git (Git Directory, Repository)
+•	El directorio de trabajo (Working Directory)
+•	El área de preparación (Staging Area)
+
+Qué es el Staging Area y Git Directory?
+Al ejecutar el comando “git init” (comando para iniciar un repositorio git) ocurren dos cosas:
+
+•	Se crea una carpeta .git. El cual es el directorio o repositorio donde Git almacena los metadatos y la base de datos de objetos para tu proyecto. Es la parte más importante de Git, y es lo que se copia cuando clonas un repositorio desde otro ordenador.
+•	Se crea un sencillo archivo que define el staging area, generalmente está contenido en el directorio de Git, que almacena información acerca de lo que va a ir en tu próxima confirmación.
+Cuál es el ciclo básico de trabajo en GitHub
+1.	Modificar una serie de archivos en tu directorio de trabajo.
+2.	Preparas los archivos, añadiendolos a tu área de preparación.
+3.	Confirmas los cambios, lo que toma los archivos tal y como están en el área de preparación, y almacena esas instantáneas de manera permanente en tu directorio de Git.
